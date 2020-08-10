@@ -1,0 +1,24 @@
+* {
+    background-color: black;
+    font-family: 'Poiret One', cursive;
+    text-align: center;
+}
+.wrapper {
+    margin: auto;
+    margin-top: 200px;
+    width: 725px;
+}
+h3 {
+    margin-left: 0%;
+    color: white;
+    font-size: 35px;
+}
+h1{
+    color: white;
+    font-size: 70px;
+    margin-top: 10px;
+}
+.time_container {
+    width: 720px;
+    height: 150px;
+}
